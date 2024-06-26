@@ -8,7 +8,7 @@ https://www.isc2.org/Certifications/CC
 - Display my commitment to this field and my overall interest in security.
 
 ## My Experience:
-It was a great intro certification where I am able to reference notes and my apply my knowledge in projects. As a ISC2 member, I have access to resources and a social network to further my career.
+It was a great intro certification where I am able to reference notes and apply my knowledge in projects. As a ISC2 member, I have access to resources and a social network to further my career.
 
 # Certificate:
 ![image](https://github.com/Dyang0/Certified-in-Cybersecurity-CC-/assets/70818105/d0bfbdc5-fad0-41f3-9fbb-e94ce58c348a)
