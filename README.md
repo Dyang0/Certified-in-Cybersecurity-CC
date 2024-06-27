@@ -1,4 +1,4 @@
-# Certified-in-Cybersecurity-CC-
+# Certified-in-Cybersecurity-CC
 Takeaways from cybersecurity certificate issued by ISC2
 
 https://www.isc2.org/Certifications/CC
